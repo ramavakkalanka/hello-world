@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+      background-color: lightblue;
+      background-image: url("A:\web design practice\Meenakshiamma.jpg");
+</style>
+</head>
+
+<body>
+<h1> HELLO THIS IS BACKGROUND</h1>
+</body>
+</html>
